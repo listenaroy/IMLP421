@@ -8,3 +8,12 @@ Kaggle:
 
 *argument: Tuple
 **argument: Dictionary
+
+Unit2:
+Import lib
+cd C:\Users\user\AppData\Local\Programs\Python\Python36\ #(路徑是自己存的資料夾路徑)
+python -m pip install --upgrade pip #(升級pip)
+python -m pip list #(查看當前版本)
+python -m pip install numpy #(安裝numpy package)
+python -m pip install pandas #(安裝pandas package)
+python -m pip install matplotlib #(安裝pandas package)
