@@ -17,3 +17,16 @@ python -m pip list #(查看當前版本)
 python -m pip install numpy #(安裝numpy package)
 python -m pip install pandas #(安裝pandas package)
 python -m pip install matplotlib #(安裝pandas package)
+python -m pip install seaborn
+
+python -m pip install yfinance
+
+Unit03:
+Training: 30%+30%
+Validation:10%+10%
+  Tuning Hyperparameter 
+  Cross Validation
+  Boostrap Validation
+Test:10%+10%
+  Validation good but testing bad->over fitting
+
